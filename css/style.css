@@ -499,10 +499,12 @@ body{
   width: 250px;
   padding: 0 0 0 10px;
 }
+.news__button{
+  color: #fff;
+}
 .news__button-btn {
   display: block;
   background: #00A4E5;
-  color: #fff;
   font-size: 13px;
   padding: 11px 35px;
   letter-spacing: 0.1em;
