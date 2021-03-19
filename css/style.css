@@ -456,9 +456,12 @@ body{
 .question__button{
   padding: 0 0 230px 0;
 }
-.question__button-in{
+.question__btn{
   color: #fff;
+}
+.question__button-in{
   width: 160px;
+  color: #fff;
   margin: 0 auto;
   padding: 12px 23px;
   background: #00A4E5;
